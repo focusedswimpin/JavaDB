@@ -26,21 +26,36 @@ This project aims to:
 4. Provide clear **UML Class and Sequence Diagrams** to illustrate system design.
 5. Demonstrate Java programming proficiency in a **structured and scalable** manner.
 
+## Test Cases
+
+✅ Positive Test Cases
+
+Creating a valid question should succeed.
+Creating a valid answer should succeed.
+Listing all questions and answers should return valid data.
+Updating existing questions and answers should reflect changes.
+Deleting existing questions and answers should remove them.
+
+❌ Negative Test Cases
+
+Adding a blank question should trigger an error.
+Adding an empty answer should trigger an error.
+Updating a non-existent question should fail.
+Deleting a non-existent question should fail.
+Entering duplicate questions should be prevented
+
+## Screencast
+
+A screencast demonstrating the application, its features, and test cases is available:
+
+🎥 Screencast Link: 
+
 ---
 
-## Getting Started
+Author
 
-Clone the repository to explore the project:
-
-```sh
-git clone https://github.com/yourusername/HW2.git
-cd HW2
-
-
-## Compile The Project
-
-```sh
-javac -d bin src/main/App.java
-
-
+📌 Name: Tejas Sharma
+📌 ASU ID: 1229168306
+📌 Course: CSE 360
+📌 Date: 11th Feb, 2025
 
