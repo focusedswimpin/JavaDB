@@ -36,3 +36,11 @@ Clone the repository to explore the project:
 git clone https://github.com/yourusername/HW2.git
 cd HW2
 
+
+## Compile The Project
+
+```sh
+javac -d bin src/main/App.java
+
+
+
