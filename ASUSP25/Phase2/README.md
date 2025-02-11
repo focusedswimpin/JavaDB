@@ -65,7 +65,3 @@ A screencast demonstrating the application, its features, and test cases is avai
 
 This project is for **educational purposes** and is **not to be copied** by others.  
 Ensure that your submission follows **academic integrity policies**.
-
-
-
-
