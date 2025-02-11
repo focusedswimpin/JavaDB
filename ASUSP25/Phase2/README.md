@@ -52,10 +52,20 @@ A screencast demonstrating the application, its features, and test cases is avai
 
 ---
 
-Author
+## Author
 
-📌 Name: Tejas Sharma
-📌 ASU ID: 1229168306
-📌 Course: CSE 360
-📌 Date: 11th Feb, 2025
+📌 **Name:** Tejas Sharma  
+📌 **ASU ID:** 1229168306  
+📌 **Course:** CSE 360  
+📌 **Date:** 11th Feb, 2025  
+
+---
+
+## License
+
+This project is for **educational purposes** and is **not to be copied** by others.  
+Ensure that your submission follows **academic integrity policies**.
+
+
+
 
