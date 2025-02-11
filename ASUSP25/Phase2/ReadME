@@ -31,10 +31,13 @@ It includes:
 - [Screencast](#screencast)
 - [GitHub Repository](#github-repository)
 - [Grading Information](#grading-information)
+- [Author](#author)
+- [License](#license)
 
 ---
 
 ## Project Structure
+
 
 ---
 
@@ -68,66 +71,3 @@ It includes:
    ```sh
    git clone <YOUR_GITHUB_REPO_URL>
    cd HW2
-
-2. Compile the Project:
-   ```sh
-  javac -d bin src/main/App.java
-
-
-3. Run the Application:
-
-  java -cp bin main.App
-
-Test Cases
-
-✅ Positive Test Cases
-
-Adding a valid question should succeed.
-
-Adding a valid answer should succeed.
-
-Listing all questions and answers should return valid data.
-
-Updating existing questions and answers should reflect changes.
-
-Deleting existing questions and answers should remove them.
-
-❌ Negative Test Cases
-
-Adding a blank question should trigger an error.
-
-Adding an empty answer should trigger an error.
-
-Updating a non-existent question should fail.
-
-Deleting a non-existent question should fail.
-
-Entering duplicate questions should be prevented.
-
-Run all tests:
-
-javac -cp .:junit-4.13.2.jar:hamcrest-core-1.3.jar -d bin src/tests/*.java
-java -cp .:bin:junit-4.13.2.jar:hamcrest-core-1.3.jar org.junit.runner.JUnitCore tests.QuestionTest
-
-
-
-
-
-Screencast
-
-A screencast demonstrating the application, its features, and test cases is available:
-
-🎥 Screencast Link: 
-
-Author:
-
-📌 Name: Tejas Sharma
-📌 ASU ID: 1229168306
-📌 Course: CSE 360 
-📌 Date: 11th Feb, 2025
-
-
-
-License:
-
-This project is for educational purposes and is not to be copied by others. Ensure that your submission follows academic integrity policies.
